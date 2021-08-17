@@ -1,0 +1,4 @@
+-  creating another directory "0x03-git".
+-  creating a not empty readme file.
+-  add to git
+-  push to git
